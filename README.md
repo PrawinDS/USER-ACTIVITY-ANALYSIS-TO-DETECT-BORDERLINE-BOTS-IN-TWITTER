@@ -10,4 +10,4 @@
   Jupyter Notebook | 
   Python 3
   
-  ![alt text](https://github.com/PrawinDS/USER-ACTIVITY-ANALYSIS-TO-DETECT-BORDERLINE-BOTS-IN-TWITTER/blob/main/Project/project%20model.jpg)
+  ![alt text](https://github.com/PrawinDS/USER-ACTIVITY-ANALYSIS-TO-DETECT-BORDERLINE-BOTS-IN-TWITTER/blob/main/Project/project%20model.jpg=300x300)
