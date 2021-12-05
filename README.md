@@ -9,3 +9,5 @@
 # Software Requirements:
   Jupyter Notebook | 
   Python 3
+  
+  ![alt text](https://github.com/PrawinDS/USER-ACTIVITY-ANALYSIS-TO-DETECT-BORDERLINE-BOTS-IN-TWITTER/blob/main/Project/project%20model.jpg)
