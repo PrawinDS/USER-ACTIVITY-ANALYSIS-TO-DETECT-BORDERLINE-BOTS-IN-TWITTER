@@ -1,5 +1,9 @@
 # USER-ACTIVITY-ANALYSIS-TO-DETECT-BORDERLINE-BOTS-IN-TWITTER
-  In this work, we have considered only the user behaviors to detect Twitter Bots. The Research experiment includes a real time Twitter dataset collected through Twitter API. We model the user behaviors as DNA sequence and design TF-IDF and Information gain (Entropy) based approach to analyze borderline bots from humans. The Essence of our proposed work identifies bots from humans through the entropy estimate on DNA sequences, which acts as the indicator for automation.
+
+   An Online Social Networks (OSN) like Twitter became a predominant platform for social expression and public relations. Twitter had 330 million monthly active users by the year 2019. With the gain in popularity, the ratio of virulent and automated accounts has also increased. It is estimated that 48 million of its functioning accounts are bots. Precisely, Twitter bots or Sybil accounts are kinds of automated web robot software that regulate activities like the tweet, retweet, like or follow via Twitter API. These bots misguide and delude genuine users by spreading spurious content. 
+   
+   Hence, uncovering malicious bots from authentic users is obligatory to ensure a safe environment  on Twitter. Then, we perform a set of simulations to benchmark different behavioral models and to identify the models that better resemble human behaviors in Twitter. In this project, We propose an effective approach to model the features of behavior analysis during bot detection. The behavior of a feature is modeled as a DNA sequence. This sequence is split to smaller fragments to represent a feature. The set of all fragments of all users is the data set. Whereas an efficient Bot detection model to detect borderline bots and to reduce False Positives based on Information Gain.The Borderline bots which follows unique patterns using Information gain approaches will yield better performance.
+
   
   
 # TOOL/PLATFORM USED
