@@ -22,7 +22,8 @@
   
   
 # Journal:
-  Link: https://ieeexplore.ieee.org/document/9768516
+
   Title: Detection of Twitter Bots using DNA-based Entropy Technique
+  Link: https://ieeexplore.ieee.org/document/9768516
   Publisher: IEEE Xplore
   Date Added to IEEE Xplore: 10 May 2022
